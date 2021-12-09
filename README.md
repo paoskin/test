@@ -4,4 +4,4 @@
 Тут будут хранится мои домашки
 
 Курс:
-https://www.udemy.com/course/learn_flutter/
+https://www.udemy.com/course/learn_flutter/git

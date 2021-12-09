@@ -1,6 +1,6 @@
 void main() {
   runApp(
-    Center(
+    const Center(
       child: Text(
         "Hello Flutter",
         textDirection: TextDirection.ltr,

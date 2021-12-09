@@ -2,7 +2,7 @@ void main() {
   runApp(
     const Center(
       child: Text(
-        "Hello Flutter",
+        "Hello Flutter2",
         textDirection: TextDirection.ltr,
         style: TextStyle(
           color: Colors.red,
